@@ -1,0 +1,109 @@
+
+								* {
+								 box-sizing: border-box;
+								}
+
+							    body {
+								  font-family: Courier New;
+								  font-size: xx-large;
+						
+								  background: url("Portfolio.jpg") no-repeat center center fixed; 								 
+								  background-size: cover;					
+								 }
+
+							   .parallax {
+									    /* The image used */
+									    background-color: url ("Portfolio.jpg");
+
+									    /* Set a specific height */
+									    min-height: 500px; 
+
+									    /* Create the parallax scrolling effect */
+									    background-attachment: fixed;
+									    background-position: center;
+									    background-repeat: no-repeat;
+									    background-size: cover;
+									}
+								/* Style the top navigation bar */
+								.topnav {
+								    overflow: hidden								    
+								}
+
+								/* Style the topnav links */
+								.topnav a {
+								    font-family: : Courier New;
+								    font-size: large;
+								    float: left;
+								    display: block;
+								    color: #f2f2f2;
+								    text-align: center;
+								    padding: 14px 16px;
+								    text-decoration: none;
+								}
+
+								/* Change color on hover */
+								.topnav a:hover {
+								    background-color: #40E0D0;
+								    color: black;
+								}
+
+								/* Style the content */
+								.content {
+								    background-color: #ffffff;
+								    padding: 10px;
+								}
+
+								.division1 {
+									background-color: #ffffff;
+								    padding: 40px;
+								    height: 1000px;
+								    width: 600px;
+								    border-width: 40px;
+    								opacity: 0.6;
+   									filter: alpha(opacity=60);
+								    overflow: scroll;
+								}
+
+								.division2 {
+									height:300px; padding: 40px; width: 100%;
+								
+									background-color: #ffffff; 
+									font-size: large;
+									opacity: 0.6;
+   									filter: alpha(opacity=60);
+								}
+
+								.table {
+									 
+									 
+
+									 
+
+
+
+
+
+
+									 }  /* how to make it nice?*/
+
+								  
+								.aboutmesection {
+									background-color: #ffffff;
+								    padding: 40px;
+								    height: 1000px;
+								    width: 600px;
+								    border-width: 40px;
+    								opacity: 0.6;
+   									filter: alpha(opacity=60);
+								    overflow: scroll;
+								}
+
+								}
+	
+								
+								
+					 
+
+		}
+
+		
